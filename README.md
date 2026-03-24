@@ -51,9 +51,11 @@ Although many of my Python projects are not yet on GitHub, here are some highlig
 - **Academic Writing Toolkit** – Python scripts to generate natural, human-like prose.
 - **Data Utilities** – Custom parsers, format converters, and reproducible build scripts.
 
-- **Unity Game Projects**  
-  Indie games, E-Learning and prototypes built with Unity and C#.
+ ## Unity Game Projects*
+- **Indie games, E-Learning and prototypes built with Unity and C#.
 
+---
+![GitHub Snake](https://github.com/00aceee/00aceee/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 📫 Connect With Me
