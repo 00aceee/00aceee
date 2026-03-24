@@ -54,10 +54,6 @@ Although many of my Python projects are not yet on GitHub, here are some highlig
  ## Unity Game Projects*
 - **Indie games, E-Learning and prototypes built with Unity and C#.
 
----
-![GitHub Snake](https://github.com/00aceee/00aceee/blob/output/github-contribution-grid-snake.svg)
----
-
 ## 📫 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-00aceee-black?style=for-the-badge&logo=github)](https://github.com/00aceee)
 [![Email](https://img.shields.io/badge/Email-contact-white?style=for-the-badge&logo=gmail)](mailto:leonardomarkace.pdm@gmail.com)
