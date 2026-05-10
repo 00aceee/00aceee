@@ -1,23 +1,12 @@
 # Hi, I'm Ace 👋
 
-## 🚀 About Me
-- 💻 Full-stack developer & system architect
-- 🎮 Indie Game Developer using Unity & C#
-- 🔧 Backend: Python (Flask), MongoDB Atlas, JavaScript
-- 🎨 Frontend: React, HTML, CSS, Flutter
-- 📊 Technical lead for Marmu Barber & Tattoo Shop booking system
-- 🛠 Passionate about workflow automation, reproducible builds, and clear documentation
-
 ---
 
-# Hi, I'm Ace 👋
-
 ## 🚀 About Me
 - 💻 Full-stack developer & system architect
 - 🎮 Indie Game Developer using Unity & C#
-- 🔧 Backend: Python (Flask), MongoDB Atlas, JavaScript
-- 🎨 Frontend: React, HTML, CSS, Flutter
-- 📊 Technical lead for Marmu Barber & Tattoo Shop booking system
+- 🌐 Web-Developer
+- 📊 Technical lead for Marmu Barber & Tattoo Shop booking system (Case Study)
 - 🛠 Passionate about workflow automation, reproducible builds, and clear documentation
 
 ---
@@ -76,15 +65,15 @@
 ---
 
 ## ⚙️ Currently Building
-- Desktop Temperature Gauge App with **OpenHardwareMonitor DLL + PyQt**
 - Multi-sensor visualization with polished UI
-- Seamless Strapi backend deployment with managed Postgres
+- iAssist: An AI-integrated Chatbot using Python (Soon to be mobile)
+- Gamified E-Learning Android Game using Unity 6 (Capstone)
 
 ---
 
 ## 🛠 Tech Stack
 - **Frontend:** React, HTML, CSS, Flutter  
-- **Backend:** Flask, Node.js, Strapi  
+- **Backend:** Flask, JavaScript, Node.js, Strapi  
 - **Databases:** MongoDB Atlas, Postgres, MySQL, Firebase  
 - **Game Dev:** Unity (C#), C, Dart  
 - **Other:** Workflow automation, cloud deployment, reproducible builds  
